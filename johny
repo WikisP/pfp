@@ -1,4 +1,4 @@
-_G.on = true-- change true or false
+_G.on = true  -- change true or false
 while wait(0.1) do
     pcall(function()
 if _G.on == true then
